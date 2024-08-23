@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Submit Data</title>
+  </head>
+  <body>
+    <form
+      action="http://localhost:3000/submit"
+      method="post"
+      enctype="multipart/form-data"
+    >
+      <label for="text">Text:</label>
+      <input type="text" name="text" id="text" />
+      <br /><br />
+      <label for="file">File:</label>
+      <input type="file" name="file" id="file" />
+      <br /><br />
+      <input type="submit" value="Submit" />
+    </form>
+  </body>
+</html>

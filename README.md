@@ -16,4 +16,5 @@ npm install
 node server.js
 ```
 
-After doing these step go to public folder and open `index.html` to upload data to the IPFS program 
+After doing these step go to public folder and open `index.html` to upload data to the IPFS program
+to see the files that have been uploaded you can open `server.html` too see the list of files.

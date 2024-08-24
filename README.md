@@ -2,7 +2,7 @@
 Satyam Mehta 21115087
 This is my Minor project which utilises IPFS storage to store text and file data.
 # Installation 
-Install [ifps Desktop](https://docs.ipfs.tech/install/ipfs-desktop/) #
+Install [ifps Desktop](https://docs.ipfs.tech/install/ipfs-desktop/) or use Chocolatey `choco install ipfs-desktop`
 clone this repo
 ``` npm
 cd server
